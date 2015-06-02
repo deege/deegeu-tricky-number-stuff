@@ -1,0 +1,8 @@
+.DS_Store
+*.screenflow
+*.MOV
+*.mp4
+*.aup
+*.m4v
+*.au
+/target/
